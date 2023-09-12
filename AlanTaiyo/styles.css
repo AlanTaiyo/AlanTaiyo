@@ -1,0 +1,100 @@
+body {
+    background: linear-gradient(to left, #47202d, #000000, #361620);
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+header {
+    background: #451034;
+    border: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.menu {
+    background: #220417;
+    padding: 5px;
+    margin: 0px;
+    border-top: solid rgb(255, 255, 255) 2px;
+    border-bottom: solid rgb(255, 255, 255) 2px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.menu li {
+    
+    padding: 0px;
+    margin-inline: 40px;
+    display: inline-block;
+    list-style-type: none;
+}
+
+.menu a {
+    
+    border-bottom: yellow;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.menu a:link, :visited, :hover, :active {
+    color: yellow;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+a:link {
+    color:rgb(255, 160, 197);
+}
+
+a:visited {
+    color: rgb(255, 160, 197);
+}
+
+a:hover {
+    color:white
+}
+
+a:active {
+    color: white;
+}
+
+footer {
+    background-color: black;
+    margin: 0px;
+    border-top: 3px solid rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.img-logos {
+    width: 30px;
+    background-color: yellow;
+    border: white solid;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+.alan_taiyo {
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.img-artes {
+    width: 600px;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(49, 49, 49);
+    border: black solid 3px;
+    
+}
+
+.menu-header {
+    width: 100px;
+}
