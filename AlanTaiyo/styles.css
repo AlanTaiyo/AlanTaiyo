@@ -39,10 +39,6 @@ header {
     display: inline-block;
 }
 
-.menu a:link, :visited, :hover, :active {
-    color: yellow;
-    text-decoration: none;
-}
 
 a {
     text-decoration: none;
@@ -87,7 +83,7 @@ footer {
 }
 
 .img-artes {
-    max-width: 50%;
+    max-width: 90%;
     width: auto;
     display: inline-block;
     padding: 10px;
